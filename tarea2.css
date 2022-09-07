@@ -1,0 +1,35 @@
+html { 
+    background:#808B96  ;
+    border: #FAE5D3 10px solid; 
+    margin: 50px; 
+    padding: 50px; 
+  }
+
+
+  div{
+    float: right;
+  }
+h1{
+  
+    color: whitesmoke;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px #ced4da;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    text-decoration: overline underline;
+    font-size: 50px;
+}
+
+h2{
+  color:#F9E79F ;
+  text-shadow: 5px 5px 5px #ced4da;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+  font-size: 40px;
+}
+p{
+  font-size: 25px;
+  float: inherit;
+}
+

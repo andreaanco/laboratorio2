@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(216, 221, 177);
+    color: cornflowerblue;
+}
+
+#titulo{
+    color: crimson;
+    text-align: center;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.texto_grande{
+    font-size: 20px;
+}
